@@ -1,0 +1,6 @@
+18:05:09.761 [main] INFO  testCases.TC_002_LoginTest - login button clicked
+18:05:09.774 [main] INFO  testCases.TC_002_LoginTest - LoginPage class instance created
+18:05:09.952 [main] INFO  testCases.TC_002_LoginTest - Email is entered
+18:05:10.060 [main] INFO  testCases.TC_002_LoginTest - Password is entered
+18:05:10.144 [main] INFO  testCases.TC_002_LoginTest - login button clicked
+18:05:10.826 [main] INFO  testCases.TC_002_LoginTest - *** TC_002_LoginTest Finished ***

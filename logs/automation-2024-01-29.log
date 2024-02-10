@@ -1,0 +1,50 @@
+22:02:30.581 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email is passed
+22:02:30.697 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is passed
+22:02:30.789 [main] INFO  testCases.TC_001_AccountRegistrationTest - NewsLetter is enabled
+22:02:30.829 [main] INFO  testCases.TC_001_AccountRegistrationTest - Agree policy is clicked
+22:02:30.874 [main] INFO  testCases.TC_001_AccountRegistrationTest - Continue button is clicked`	
+22:05:15.483 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:05:15.703 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on myaccount done
+22:05:16.445 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on registeraccount done
+22:05:16.618 [main] INFO  testCases.TC_001_AccountRegistrationTest - Firstname is passed
+22:05:16.735 [main] INFO  testCases.TC_001_AccountRegistrationTest - Lastname is passed
+22:05:16.882 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email is passed
+22:05:17.006 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is passed
+22:05:17.103 [main] INFO  testCases.TC_001_AccountRegistrationTest - NewsLetter is enabled
+22:05:17.145 [main] INFO  testCases.TC_001_AccountRegistrationTest - Agree policy is clicked
+22:05:17.205 [main] INFO  testCases.TC_001_AccountRegistrationTest - Continue button is clicked`	
+22:22:07.375 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:22:07.561 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on myaccount done
+22:22:08.300 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on registeraccount done
+22:22:08.478 [main] INFO  testCases.TC_001_AccountRegistrationTest - Firstname is passed
+22:22:08.614 [main] INFO  testCases.TC_001_AccountRegistrationTest - Lastname is passed
+22:22:08.748 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email is passed
+22:22:08.862 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is passed
+22:22:08.963 [main] INFO  testCases.TC_001_AccountRegistrationTest - NewsLetter is enabled
+22:22:09.015 [main] INFO  testCases.TC_001_AccountRegistrationTest - Agree policy is clicked
+22:22:09.067 [main] INFO  testCases.TC_001_AccountRegistrationTest - Continue button is clicked`	
+22:24:01.399 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:24:01.537 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:24:01.789 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - click on myaccount done
+22:24:01.914 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on myaccount done
+22:24:03.374 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - click on registeraccount done
+22:24:03.769 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on registeraccount done
+22:24:03.819 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Firstname is passed
+22:24:04.037 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Lastname is passed
+22:24:04.276 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Email is passed
+22:24:04.287 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Firstname is passed
+22:24:04.487 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Password is passed
+22:24:04.655 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - NewsLetter is enabled
+22:24:04.742 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Agree policy is clicked
+22:24:04.842 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Continue button is clicked`	
+22:24:05.007 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Lastname is passed
+22:24:05.712 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Email is passed
+22:24:05.857 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Password is passed
+22:24:05.986 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - NewsLetter is enabled
+22:24:06.030 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Agree policy is clicked
+22:24:06.109 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Continue button is clicked`	
+22:25:12.925 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:25:12.928 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+22:25:13.308 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on myaccount done
+22:25:13.325 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - click on myaccount done
+22:25:14.753 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - click on registeraccount done

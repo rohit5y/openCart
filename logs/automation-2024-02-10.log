@@ -1,0 +1,57 @@
+13:45:48.796 [main] INFO  testCases.TC_002_LoginTest - login button clicked
+13:45:48.810 [main] INFO  testCases.TC_002_LoginTest - LoginPage class instance created
+13:45:48.984 [main] INFO  testCases.TC_002_LoginTest - Email is entered
+13:45:49.096 [main] INFO  testCases.TC_002_LoginTest - Password is entered
+13:45:49.185 [main] INFO  testCases.TC_002_LoginTest - login button clicked
+13:45:49.829 [main] INFO  testCases.TC_002_LoginTest - *** TC_002_LoginTest Finished ***
+17:51:15.854 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+17:51:16.104 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on myaccount done
+17:51:17.046 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on registeraccount done
+17:51:17.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - Firstname is passed
+17:51:17.325 [main] INFO  testCases.TC_001_AccountRegistrationTest - Lastname is passed
+17:51:17.459 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email is passed
+17:51:17.571 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is passed
+17:51:17.712 [main] INFO  testCases.TC_001_AccountRegistrationTest - NewsLetter is enabled
+17:51:17.762 [main] INFO  testCases.TC_001_AccountRegistrationTest - Agree policy is clicked
+17:51:17.838 [main] INFO  testCases.TC_001_AccountRegistrationTest - Continue button is clicked`	
+17:51:21.309 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+17:51:21.310 [main] INFO  testCases.TC_002_LoginTest - Homepage class instance created
+17:51:21.457 [main] INFO  testCases.TC_002_LoginTest - MyAccount button clicked
+17:51:22.261 [main] INFO  testCases.TC_002_LoginTest - login button clicked
+17:51:22.266 [main] INFO  testCases.TC_002_LoginTest - LoginPage class instance created
+17:51:22.492 [main] INFO  testCases.TC_002_LoginTest - Email is entered
+17:51:22.620 [main] INFO  testCases.TC_002_LoginTest - Password is entered
+17:51:22.724 [main] INFO  testCases.TC_002_LoginTest - login button clicked
+17:51:23.384 [main] INFO  testCases.TC_002_LoginTest - *** TC_002_LoginTest Finished ***
+17:51:54.775 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+17:51:55.047 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on myaccount done
+17:51:55.766 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on registeraccount done
+17:51:55.925 [main] INFO  testCases.TC_001_AccountRegistrationTest - Firstname is passed
+17:51:56.029 [main] INFO  testCases.TC_001_AccountRegistrationTest - Lastname is passed
+17:51:56.147 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email is passed
+17:51:56.260 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is passed
+17:51:56.352 [main] INFO  testCases.TC_001_AccountRegistrationTest - NewsLetter is enabled
+17:51:56.408 [main] INFO  testCases.TC_001_AccountRegistrationTest - Agree policy is clicked
+17:51:56.460 [main] INFO  testCases.TC_001_AccountRegistrationTest - Continue button is clicked`	
+17:51:59.463 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+17:51:59.464 [main] INFO  testCases.TC_002_LoginTest - Homepage class instance created
+17:51:59.612 [main] INFO  testCases.TC_002_LoginTest - MyAccount button clicked
+17:52:00.282 [main] INFO  testCases.TC_002_LoginTest - login button clicked
+17:52:00.286 [main] INFO  testCases.TC_002_LoginTest - LoginPage class instance created
+17:52:00.460 [main] INFO  testCases.TC_002_LoginTest - Email is entered
+17:52:00.565 [main] INFO  testCases.TC_002_LoginTest - Password is entered
+17:52:00.649 [main] INFO  testCases.TC_002_LoginTest - login button clicked
+17:52:01.307 [main] INFO  testCases.TC_002_LoginTest - *** TC_002_LoginTest Finished ***
+18:05:04.324 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest ***
+18:05:04.539 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on myaccount done
+18:05:05.264 [main] INFO  testCases.TC_001_AccountRegistrationTest - click on registeraccount done
+18:05:05.409 [main] INFO  testCases.TC_001_AccountRegistrationTest - Firstname is passed
+18:05:05.514 [main] INFO  testCases.TC_001_AccountRegistrationTest - Lastname is passed
+18:05:05.631 [main] INFO  testCases.TC_001_AccountRegistrationTest - Email is passed
+18:05:05.724 [main] INFO  testCases.TC_001_AccountRegistrationTest - Password is passed
+18:05:05.819 [main] INFO  testCases.TC_001_AccountRegistrationTest - NewsLetter is enabled
+18:05:05.873 [main] INFO  testCases.TC_001_AccountRegistrationTest - Agree policy is clicked
+18:05:05.919 [main] INFO  testCases.TC_001_AccountRegistrationTest - Continue button is clicked`	
+18:05:08.896 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+18:05:08.896 [main] INFO  testCases.TC_002_LoginTest - Homepage class instance created
+18:05:09.068 [main] INFO  testCases.TC_002_LoginTest - MyAccount button clicked

@@ -1,0 +1,55 @@
+13:57:09.399 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:09.403 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:57:09.404 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:09.430 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:57:09.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:57:09.454 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:57:09.455 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:57:09.470 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+13:57:09.511 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_002_LoginTest ***
+13:57:09.554 [main] INFO  testCases.TC_003_LoginDDT - Homepage class instance created
+13:57:09.701 [main] INFO  testCases.TC_003_LoginDDT - MyAccount button clicked
+13:57:10.519 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+13:57:10.522 [main] INFO  testCases.TC_003_LoginDDT - LoginPage class instance created
+13:57:10.637 [main] INFO  testCases.TC_003_LoginDDT - Email is entered
+13:57:10.733 [main] INFO  testCases.TC_003_LoginDDT - Password is entered
+13:57:10.831 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+13:57:20.928 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_002_LoginTest ***
+13:57:20.929 [main] INFO  testCases.TC_003_LoginDDT - Homepage class instance created
+13:57:21.003 [main] INFO  testCases.TC_003_LoginDDT - MyAccount button clicked
+13:57:21.500 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+13:57:21.501 [main] INFO  testCases.TC_003_LoginDDT - LoginPage class instance created
+13:57:21.587 [main] INFO  testCases.TC_003_LoginDDT - Email is entered
+13:57:21.670 [main] INFO  testCases.TC_003_LoginDDT - Password is entered
+13:57:21.754 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+13:57:31.833 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_002_LoginTest ***
+13:57:31.834 [main] INFO  testCases.TC_003_LoginDDT - Homepage class instance created
+13:57:31.915 [main] INFO  testCases.TC_003_LoginDDT - MyAccount button clicked
+13:57:32.431 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+13:57:32.431 [main] INFO  testCases.TC_003_LoginDDT - LoginPage class instance created
+13:57:32.517 [main] INFO  testCases.TC_003_LoginDDT - Email is entered
+13:57:32.597 [main] INFO  testCases.TC_003_LoginDDT - Password is entered
+13:57:32.682 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+13:57:42.716 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_002_LoginTest ***
+13:57:42.717 [main] INFO  testCases.TC_003_LoginDDT - Homepage class instance created
+13:57:42.809 [main] INFO  testCases.TC_003_LoginDDT - MyAccount button clicked
+13:57:43.279 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+13:57:43.279 [main] INFO  testCases.TC_003_LoginDDT - LoginPage class instance created
+13:57:43.364 [main] INFO  testCases.TC_003_LoginDDT - Email is entered
+13:57:43.435 [main] INFO  testCases.TC_003_LoginDDT - Password is entered
+13:57:43.513 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+13:57:53.608 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_002_LoginTest ***
+13:57:53.610 [main] INFO  testCases.TC_003_LoginDDT - Homepage class instance created
+13:57:53.712 [main] INFO  testCases.TC_003_LoginDDT - MyAccount button clicked
+13:57:54.173 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+13:57:54.174 [main] INFO  testCases.TC_003_LoginDDT - LoginPage class instance created
+13:57:54.250 [main] INFO  testCases.TC_003_LoginDDT - Email is entered
+13:57:54.327 [main] INFO  testCases.TC_003_LoginDDT - Password is entered
+13:57:54.405 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+14:08:44.640 [main] INFO  testCases.TC_003_LoginDDT - *** Starting TC_002_LoginTest ***
+14:08:44.682 [main] INFO  testCases.TC_003_LoginDDT - Homepage class instance created
+14:08:44.836 [main] INFO  testCases.TC_003_LoginDDT - MyAccount button clicked
+14:08:45.535 [main] INFO  testCases.TC_003_LoginDDT - login button clicked
+14:08:45.537 [main] INFO  testCases.TC_003_LoginDDT - LoginPage class instance created
+14:08:45.754 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:08:45.758 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
